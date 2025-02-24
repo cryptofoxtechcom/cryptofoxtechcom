@@ -19,6 +19,7 @@ Hi there! I'm a passionate developer with a keen interest in **DevOps**, **Djang
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="48" title="Linux" />
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="48" title="Ansible" />
   <img src="https://img.icons8.com/color/48/000000/ibm.png" alt="IBM" width="48" title="IBM" />
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="48" title="Jenkins" />
 </p>
 
 ## 🌱 Interests
